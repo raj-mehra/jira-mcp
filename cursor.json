@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "jira": {
+      "url": "http://localhost:8000/sse",
+      "env": {
+        "JIRA_URL": "YOUR_JIRA_URL",
+        "JIRA_USERNAME": "YOUR_JIRA_USERNAME",
+        "JIRA_API_TOKEN": "YOUR_JIRA_API_TOKEN"
+      }
+    }
+  }
+} 

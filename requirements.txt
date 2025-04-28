@@ -1,0 +1,9 @@
+anyio
+click
+httpx
+mcp
+python-dotenv
+jira
+pydantic
+uvicorn
+starlette 
